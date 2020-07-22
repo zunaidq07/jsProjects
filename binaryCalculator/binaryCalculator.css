@@ -1,0 +1,34 @@
+bdoy {
+  width: 33%;
+}
+#res {
+  background-color: lightgray;
+  border: solid;
+  height: 48px;
+  font-size: 24px;
+}
+/* .btnsContainer {
+  width: 70%;
+} */
+
+#btn0, #btn1 {
+  background-color: lightgreen;
+  color: brown;
+}
+.btnsContainer > .btnEl {
+  width: 25%;
+  float: left;
+  margin: 0;
+  height: 36px;
+  font-size: 18px;
+}
+
+#btnClr, #btnEql {
+  background-color: darkgreen;
+  color: white;
+}
+
+#btnSum, #btnSub, #btnMul, #btnDiv {
+  background-color: black;
+  color: red;
+}
